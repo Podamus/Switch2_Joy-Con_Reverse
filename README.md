@@ -2,6 +2,7 @@
 I try to share my reverse engineering information about Switch2 and Joy-Con2 here, and hope this information can be helpful to the Nintendo Switch community.
 
 ### Pin mapping
+According to Nintendo's patent, the Joy-Con of Switch 2 can be inserted in reverse order, so the numbering of the left and right connector contacts is opposite.
 <div style="text-align: center;"> 
   Left Connector
   <div style="display: inline-block; margin: 5px;">
