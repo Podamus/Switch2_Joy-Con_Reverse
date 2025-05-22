@@ -1,5 +1,6 @@
 # Switch2 Joy-Con Reverse Engineering
 I try to share my reverse engineering information about Switch2 and Joy-Con2 here, and hope this information can be helpful to the Nintendo Switch community.
+If you are also interested in Switch2 hardware, Feel free to [join our discord](https://discord.gg/3JR9Xmxd) for discussions and contribute.
 
 ### Pin mapping
 According to Nintendo's patent, the Joy-Con of Switch 2 can be inserted in reverse order, so the numbering of the left and right connector contacts is opposite.
@@ -36,5 +37,7 @@ According to Nintendo's patent, the Joy-Con of Switch 2 can be inserted in rever
 |          11        |          3         |               -               |                                                          -                                                                          |
 |          12        |          2         |              Jdet             |                                          Attach detect(needs to be connected to GND)                                                |
 |          13        |          1         |              GND              |                                                          -                                                                          |
+
+To Be Continued...
 
 
