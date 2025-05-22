@@ -2,7 +2,7 @@
 I try to share my reverse engineering information about Switch2 and Joy-Con2 here, and hope this information can be helpful to the Nintendo Switch community.
 
 ### Pin mapping
-
+![Right Connector](./images/right_connector.jpg "Right Connector")
 
 
 ### Console Connector Pinout
