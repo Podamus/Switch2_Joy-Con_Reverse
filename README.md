@@ -2,8 +2,17 @@
 I try to share my reverse engineering information about Switch2 and Joy-Con2 here, and hope this information can be helpful to the Nintendo Switch community.
 
 ### Pin mapping
-| ![Left Connector](./images/left_connector.jpg "Left Connector") | ![Right Connector](./images/right_connector.jpg "Right Connector") | ![Golden_Finger](./images/golden_finger.png "Golden_Finger") |
-
+<div style="text-align: center;"> 
+  <div style="display: inline-block; margin: 5px;">
+    <img src="./images/left_connector.jpg" alt="Left Connector">
+  </div>
+  <div style="display: inline-block; margin: 5px;">
+    <img src="./images/right_connector.jpg" alt="Right Connector">
+  </div>
+  <div style="display: inline-block; margin: 5px;">
+    <img src="./images/golden_finger.png" alt="Golden_Finger">
+  </div>
+</div>
       
 
 ### Console Connector Pinout
