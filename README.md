@@ -3,6 +3,7 @@ I try to share my reverse engineering information about Switch2 and Joy-Con2 her
 
 ### Pin mapping
 <div style="text-align: center;"> 
+  |Left Connector|
   <div style="display: inline-block; margin: 5px;">
     <img src="./images/left_connector.jpg" alt="Left Connector" title="Left Connector" width="300" height="400">
   </div>
