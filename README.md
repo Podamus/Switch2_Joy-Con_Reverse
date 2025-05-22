@@ -3,13 +3,15 @@ I try to share my reverse engineering information about Switch2 and Joy-Con2 her
 
 ### Pin mapping
 <div style="text-align: center;"> 
-  |Left Connector|
+  Left Connector
   <div style="display: inline-block; margin: 5px;">
     <img src="./images/left_connector.jpg" alt="Left Connector" title="Left Connector" width="300" height="400">
   </div>
+  Right Connector
   <div style="display: inline-block; margin: 5px;">
     <img src="./images/right_connector.jpg" alt="Right Connector" title="Right Connector" width="300" height="400">
   </div>
+  Golden Finger
   <div style="display: inline-block; margin: 5px;">
     <img src="./images/golden_finger.png" alt="Golden_Finger" title="Golden Finger" width="300" height="400">
   </div>
