@@ -25,7 +25,7 @@ According to Nintendo's patent, the Joy-Con of Switch 2 can be inserted in rever
 | Left Connector Pin | Right Connector Pin|           Function            |                                                       Funtion                                                                       |
 |:------------------:|:------------------:|:-----------------------------:| ----------------------------------------------------------------------------------------------------------------------------------- |
 |           1        |         13         |              GND              |                                                          -                                                                          |
-|           2        |         12         |              JRST             |                                   Flow Control, console may send to Joycon when LOW                                                 |
+|           2        |         12         |              GND              |                                                          -                                                                          |
 |           3        |         11         |               -               |                                                          -                                                                          |
 |           4        |         10         |               -               |                                                          -                                                                          |
 |           5        |          9         |               -               |                                                          -                                                                          |
@@ -34,7 +34,7 @@ According to Nintendo's patent, the Joy-Con of Switch 2 can be inserted in rever
 |           8        |          6         |              5V               |                                              Joy-Con power and charging                                                             |
 |           9        |          5         |               -               |                                                          -                                                                          |
 |          10        |          4         |               -               |                                                          -                                                                          |
-|          11        |          3         |               -               |                                                          -                                                                          |
+|          11        |          3         |              JRST             |                                   Flow Control, console may send to Joycon when LOW                                                 |
 |          12        |          2         |              Jdet             |                                          Attach detect(needs to be connected to GND)                                                |
 |          13        |          1         |              GND              |                                                          -                                                                          |
 
